@@ -1,7 +1,7 @@
 
 function loadData() {
 
-	var streetViewURL =  "http://maps.googleapis.com/maps/api/streetview?size=1024x768&location=";
+	var streetViewURL =  "http://maps.googleapis.com/maps/api/streetview?size=600x400&location=";
 
     var $body = $('body');
     var $wikiElem = $('#wikipedia-links');
